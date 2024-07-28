@@ -1,6 +1,7 @@
 
 
 
+
 <!DOCTYPE HTML>
 <!--
 	MyWebsite by HTML5 UP
@@ -57,7 +58,7 @@
 							<section class="box style1">
 								<span class="icon featured fa-comments"></span>
 								<h3>My Role at Aksum University</h3>
-								<p>My main rule in Aksum University is teaching courses for undergraduate CS,IT and IS students, Co-advise master students working towards their thesis . Moreover; conducting research and leading the gender office of Aksum Institute of technology. AI , Human computer interaction and Disttributed systems are amonth the course I teach for my students.</p>
+								<p>My main role in Aksum University is teaching courses for undergraduate CS,IT and IS students, Co-advise master students working towards their thesis . Moreover; conducting research and leading the gender office of Aksum Institute of technology. AI , Human computer interaction and Disttributed systems are amonth the course I teach for my students.</p>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
@@ -95,20 +96,23 @@
 
 		<!-- Portfolio -->
 			<article id="portfolio" class="wrapper style3">
-				<ul class="container">
-						<p> My research profile 
-						<a herf="https://aksumuniverdity.academia.edu/frehiwotgebrekrstos/">  Academia </a></p>	
+						<div class="container">
+						<section class="box style1">
+								<span class="icon featured fa-thumbs-up"></span>
+						<p><a herf="https://aksumuniverdity.academia.edu/frehiwotgebrekrstos/">My research profile on Academia </a> </p>
+						
+						
 					
-						<p>Goddess among us contest	
-						<a herf="https://goddesscontest.com/contestants/frehiwot-gebrekrstos-girmay/"> Vote for me </a></p>
+		
+						<p><a herf="https://goddesscontest.com/contestants/frehiwot-gebrekrstos-girmay/">Goddess among us contest Vote for me </a></p><br>
 			
-						<p> My videos on Youtube	
-						<a herf="https://goddesscontest.com/contestants/frehiwot-gebrekrstos-girmay/"> Subscribe </a></p>
-						<p> My photos on Instagram	
-						<a herf="https://www.instagram.com/fritafritata/"> Follow and support my modelling journey </a></p>
-						<p> My fellowship at Headstarter AI	
-						<a herf="https://www.linkedin.com/posts/frehiwot-gebrekrstos-girmay-0193a542_software-engineering-fellow-activity-7221215298610176000-pKsK?utm_source=share&utm_medium=member_desktop"> My fellowship journey just started </a></p>
-					</ul>
+						</p><a herf="https://goddesscontest.com/contestants/frehiwot-gebrekrstos-girmay/"> Subscribe My videos on Youtube </a></p><br>
+						
+						</p><a herf="https://www.instagram.com/fritafritata/"> Follow and support my modelling journey </a></p><br>
+						
+						</p><a herf="https://www.linkedin.com/posts/frehiwot-gebrekrstos-girmay-0193a542_software-engineering-fellow-activity-7221215298610176000-pKsK?utm_source=share&utm_medium=member_desktop"> My fellowship at Headstarter Aijourney just started </a></p></br>
+					</section>
+					</div>
 
 				</article>					
 					<footer>
